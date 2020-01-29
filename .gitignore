@@ -31,6 +31,7 @@ nb-configuration.xml
 *.rej
 
 # Maven
+target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
